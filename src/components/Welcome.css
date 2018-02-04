@@ -1,0 +1,11 @@
+.App {
+text-align: center;
+}
+.welcome-headline, .welcome-secondary {
+  color: #E2EFF1;
+}
+
+.welcome-headline {
+  margin-top: 100px;
+}
+
